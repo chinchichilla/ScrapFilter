@@ -12,7 +12,7 @@ filters = {
     "Rosco": {}
 }
 
-# ------------ LEE ------------
+# ------------ Lee ------------
 
 url_lee = "https://leefilters.com/lighting/colour-effect-lighting-filters/"
 response = requests.get(url_lee)
